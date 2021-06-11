@@ -8,6 +8,8 @@ var os = require('os')
 
 //test
 
+// test on github desktop
+
 var win32 = os.platform() === 'win32'
 
 var noop = function () {}
